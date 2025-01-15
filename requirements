@@ -1,0 +1,63 @@
+Als Medewerker en Admin
+Wil ik een lijst kunnen inzien van producten.
+Zodat ik goed alles kan bijhouden.
+
+Als Medewerker en Admin
+Wil ik de naam van een product kunnen inzien.
+Zodat ik weet welk product het is.
+
+Als Medewerker en Admin
+Wil ik kunnen zien welke andere producten compatible zijn met een product.
+Zodat ik goed alles bij elkaar kan halen.
+
+Als Medewerker en Admin
+Wil ik kunnen zien hoeveel exemplaren er van een product op vooraad zijn.
+Zodat ik weet hoeveel exemplaren ik heb
+
+Als Medewerker en Admin
+Wil ik kunnen zien hoeveel exemplaren er van een product besteld zijn.
+Zodat ik als iets niet op vooraad is aan een klant kan vertellen wanneer het product weer beschikbaar is.
+
+Als Medewerker en Admin
+Wil ik de lijst van producten kunnen sorteren op een categorie.
+Zodat ik makelijk een groep producten van de zelfde soort kan inzien.
+
+Als Medewerker en Admin
+Wil ik de lijst kunnen doorzoeken op een specifiek trefwoord.
+Zodat ik makkelijk een specifiek product kan vinden.
+
+Als Admin
+Wil ik producten kunnen toevoegen aan de lijst.
+Zodat ik een nieuw product kan toevoegen.
+
+Als Admin
+Wil ik producten kunnen verwijderen uit de lijst.
+Zodat ik een product kan verwijderen.
+
+Als Admin
+Wil ik de naam van een product kunnen wijzigen.
+Zodat ik als het product een andere naam krijgt dit kunnen wijzigen.
+
+Als Admin
+Wil ik de vooraad kunnen wijzigen.
+Zodat ik als er een fout is in de vooraad dit kan wijzigen
+
+Als Admin
+Wil ik nieuwe exemplaren van producten  kunnen bestellen.
+Zodat ik mijn vooraad kan herstellen.
+
+Als Admin
+Wil ik exemplaren kunnen verkopen.
+Zodat ik dit kan bijhouden.
+
+Als Admin
+Wil ik de totale verkoop kunnen inzien.
+Zodat ik weet hoeveel de winkel verdient heeft.
+
+Als Admin
+Wil ik van elk product kunnen zien hoeveel exemplaren er verkocht zijn.
+Zodat ik kan zien hoeveel ik moet bestellen.
+
+Als Admin
+Wil ik een categorie kunnen toewijzen aan een product.
+Zodat ik dit later makkelijk kan terug vinden.

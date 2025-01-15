@@ -1,0 +1,17 @@
+
+
+een lijst kunnen inzien van producten
+producten kunnen toevoegen aan de lijst
+producten kunnen wijzigen in de lijst
+producten kunnen verwijderen uit de lijst
+
+Elk product moet duidelijk laten zien:
+    Welke producten compatible zijn,
+    Hoeveel exemplaren van het product er op vooraad is,
+    inzien hoeveel exemplaren van het product verkocht zijn,
+    hoeveel exemplaren van het product besteld zijn.
+
+Er moeten onderscheid gemaakt worden tussen de rechten: Admin en medewerker;
+    ADMIN:
+        Alles
+    MEDEWERKER:

@@ -1,0 +1,31 @@
+product
+    productId
+    name
+    amount
+    Category
+    Compatible
+
+ENUM Category
+
+User
+    userId
+    name
+    permission
+
+ENUM Permission
+
+Order
+    orderID
+    OrderItem
+
+OrderItem
+    orderItemId
+    amount
+
+Sale
+    saleId
+    saleItem
+SaleItem
+    saleItemid
+    amount
+
